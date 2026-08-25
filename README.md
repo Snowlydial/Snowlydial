@@ -1,4 +1,4 @@
-# 🦉 Hi, I'm Ray
+# 🦉 Henlo, Ray here
 
 3rd-year IT student who likes **bringing ideas to life**, whether building with code or creating through art and visual expression.  
 Always experimenting with ideas and aiming to make decent stuff in general.
