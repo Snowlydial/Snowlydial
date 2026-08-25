@@ -1,22 +1,9 @@
 3rd-year IT student who likes bringing ideas to life, whether building with code or creating through art and visual expression. Always experimenting with ideas and aiming to make decent stuff in general.
 
-### Languages
-![](https://skillicons.dev/icons?i=java,php,cs,js,python,html,css)
+**Languages** ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=php&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & libraries
-![](https://skillicons.dev/icons?i=spring,laravel,django,react,angular,dotnet)
+**Frameworks & libraries** ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=react&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=angular&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=dotnet&logoColor=white)
 
-### Databases
-![](https://skillicons.dev/icons?i=postgres,mysql)
+**Databases** ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools
-![](https://skillicons.dev/icons?i=git,github,docker,vscode)
-
----
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Snowlydial&show_icons=true&hide_border=true" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowlydial&layout=compact&hide_border=true" /></td>
-</tr>
-</table>
+**Tools** ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=white)
