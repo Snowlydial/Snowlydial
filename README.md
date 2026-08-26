@@ -3,8 +3,8 @@
 3rd-year IT student who likes **bringing ideas to life**, whether building with code or creating through art and visual expression.  
 Always experimenting with ideas and aiming to make decent stuff in general.
 
-## ❄️ How I got here
-Got into IT wanting to make games to tell stories about my OCs, something I still do, but along the way I realized I also enjoy building tools that make things easier, for myself or for other people.
+## ❄️ Some context
+I got into IT wanting to make games to tell stories about my OCs, something I still do, but along the way I realized I also enjoy building tools that make things easier, for myself or for other people.
 
 
 ## 🧊 Interests
